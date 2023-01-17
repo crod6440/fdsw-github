@@ -20,6 +20,11 @@ body {
   background-position: center;
 }
 
+.color_button {
+  color: green;
+  font-weight: bold;
+}
+
 /* Contacto */
 
 #Contacto form label {
